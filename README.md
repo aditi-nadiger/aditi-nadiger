@@ -19,46 +19,37 @@ Here are some ideas to get you started:
 🚀 Aspiring **Software Development Engineer** with strong CS fundamentals and hands-on project experience.  
 
 ---
-
 ## 🔧 Tech Stack  
 
 ### 🖥️ Languages  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="sql" width="50" height="50"/>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="sql" width="50" height="50"/> </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
+
 </p>
 
 ### 📚 Libraries / Frameworks  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="50" height="50"/>
-  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="50" height="50"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="50" height="50"/>
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="50" height="50"/> </a>
+  <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="50" height="50"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="50" height="50"/> </a>
+  <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="50" height="50"/> </a>
+  <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="50" height="50"/> </a>
 </p>
 
 ### 🛠️ Tools  
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="render" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure boards" width="50" height="50"/>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> </a>
+  <a href="https://render.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="render" width="50" height="50"/> </a>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/> </a>
+  <a href="https://azure.microsoft.com/en-in/services/devops/boards/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure boards" width="50" height="50"/> </a>
 </p>
 
-### ⚡ Core Concepts  
-<p align="left">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-robotics-flaticons-lineal-color-flat-icons.png" alt="ml" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-deep-learning-robotics-flaticons-lineal-color-flat-icons.png" alt="dl" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-coding-computer-science-flaticons-lineal-color-flat-icons.png" alt="dsa" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-bearicons-glyph-bearicons/64/external-OOP-programming-bearicons-glyph-bearicons.png" alt="oop" width="50" height="50"/>
-  <img src="https://img.icons8.com/fluency/64/linux.png" alt="os" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/64/database.png" alt="dbms" width="50" height="50"/>
-</p>
 
 ---
 
