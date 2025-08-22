@@ -23,27 +23,42 @@ Here are some ideas to get you started:
 ## 🔧 Tech Stack  
 
 ### 🖥️ Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/4479A1/sql.png" alt="sql" width="50" height="50"/>
+</p>
 
 ### 📚 Libraries / Frameworks  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="50" height="50"/>
+  <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="50" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="50" height="50"/>
+</p>
 
 ### 🛠️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-![Azure Boards](https://img.shields.io/badge/Azure%20Boards-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg" alt="render" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure boards" width="50" height="50"/>
+</p>
 
+### ⚡ Core Concepts  
+<p align="left">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-robotics-flaticons-lineal-color-flat-icons.png" alt="ml" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-deep-learning-robotics-flaticons-lineal-color-flat-icons.png" alt="dl" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-coding-computer-science-flaticons-lineal-color-flat-icons.png" alt="dsa" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-bearicons-glyph-bearicons/64/external-OOP-programming-bearicons-glyph-bearicons.png" alt="oop" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/64/linux.png" alt="os" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/64/database.png" alt="dbms" width="50" height="50"/>
+</p>
 
 ---
 
