@@ -28,13 +28,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Projects
-- 🐦 **XAI – Bird Species**: CNN-based classifier for 200+ bird species with Explainable AI (Grad-CAM, LIME) → **94% accuracy**  
-- 🔍 **Steganalysis Classifier**: Random Forest model + Streamlit GUI for detecting hidden data in images  
-- 🌱 **Fertilizer Prediction**: Decision Tree & Random Forest for fertilizer recommendations → **91% accuracy**  
-
----
-
 ## 💼 Experience
 - **Undergraduate Intern @ Dell Technologies (2025)**  
   Built a multi-agent LLM chatbot using LLaMA, LangChain, LangGraph; integrated SQL & PDF data; scaled with Dell-hosted GenAI.  
