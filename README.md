@@ -64,7 +64,13 @@ Here are some ideas to get you started:
 
 
 ---
+## 🌐 Connect with me  
 
-## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/aditi-nadiger-2b2193244/)
-- 📧 aditinadiger@gmail.com  
+<p align="left">
+  <a href="https://www.linkedin.com/in/aditi-nadiger-2b2193244/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="mailto:aditinadiger@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail" width="40" height="40"/>
+  </a>
+</p>
