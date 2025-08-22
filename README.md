@@ -35,8 +35,10 @@ Here are some ideas to get you started:
   <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="50" height="50"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="50" height="50"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="50" height="50"/> </a>
-  <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="50" height="50"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="50" height="50"/>
+  <a href="https://matplotlib.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/>
+</a>
   <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="50" height="50"/> </a>
 </p>
 
